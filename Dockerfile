@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:18.04
 MAINTAINER Ian Blenke <ian@blenke.com>
 
 # install necessary stuff; avahi, and ssh such that we can log in and control avahi
